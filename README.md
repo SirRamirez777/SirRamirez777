@@ -9,4 +9,6 @@ My personal repository
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
+<img src="https://myreadme.vercel.app/api/embed/SirRamirez777?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
