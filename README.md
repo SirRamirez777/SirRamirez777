@@ -1,13 +1,10 @@
 # Nhlakanipho-Romeo-Khoza
-My personal repository
+# ABOUT ME
+<BR>
+✌️   Enjoy to do programming and sharing knowledge
 
-[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/3840208/dhanushka)
+❤️   Love to writing code and learning new features
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
-
-<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 <img src="https://myreadme.vercel.app/api/embed/SirRamirez777?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
