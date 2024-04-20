@@ -1,7 +1,7 @@
 # Nhlakanipho-Romeo-Khoza
 # ABOUT ME
 <BR>
-✌️   Enjoy to do programming and sharing knowledge
+✌️   I am a Gamer 🎮🎮
 
 ❤️   Love to writing code and learning new features
 
