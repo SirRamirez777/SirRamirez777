@@ -1,5 +1,5 @@
 # Nhlakanipho-Romeo-Khoza
-# ABOUT ME
+# ASPIRING FULL STACK DEVELOPER
 <BR>
 ✌️   I am a Gamer 🎮🎮
 
