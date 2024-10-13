@@ -1,9 +1,9 @@
 # Nhlakanipho-Romeo-Khoza
 # FULL STACK DEVELOPER
 <BR>
-✌️   I am a Gamer 🎮🎮
+✌️   A retired Gamer 🎮🎮
 
-❤️   Love writing code and learning new frameworks..
+❤️   Fell inlove with code.
 
 
 <img src="https://myreadme.vercel.app/api/embed/SirRamirez777?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
