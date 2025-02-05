@@ -1,5 +1,5 @@
 # Nhlakanipho-Romeo-Khoza
-# FULL STACK DEVELOPER
+# JUNIOR DEVELOPER
 <BR>
 ✌️   A retired Gamer 🎮🎮
 
